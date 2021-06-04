@@ -31,6 +31,8 @@ Verilerinizi Kaldırmak İstediğinizde: [Destek Sunucusundan](https://discord.g
 # Beyaz listeye geri eklenirsem verilerim geri gelebilir mi?
 Hayır, Verileriniz __KaraListeye__ Girdiği Andan İtibaren Botun Datasından Kaldırılmaktadır.
 
+#
+
 Güncellenme Tarihi: **04.06.2021 | 17:22:49**
 
 Lenosa Geliştirici Topluluğu © 2020~2021
