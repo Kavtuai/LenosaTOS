@@ -1,4 +1,4 @@
-# Lensa Bot Gizlilik Politikası
+# Lensa Bot Veri Politikası
 
 Lenosa'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
 
