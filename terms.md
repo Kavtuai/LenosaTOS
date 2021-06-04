@@ -49,7 +49,7 @@
 
 #
 
-[Botun Sitesinde Oku](https://bot.lenosa.cf/tos#veri-kullanimi.html)  
+[Botun Sitesinde Oku](https://bot.lenosa.cf/tos.html)  
 
 ・ Güncellenme Tarihi: **04.06.2021 | 18:30:15**  
 
