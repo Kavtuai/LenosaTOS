@@ -17,6 +17,10 @@
 ・ Botumuzu her discord üyesi kullanabilir. Fakar Hesabınızın: [Discord TOS](https://discord.com/terms)'a uygun olması gerekmetedir.
 ・ Başka herhangi bir kısıtlamaksızın botu kullanabilirsiniz.
 
+# Site Kullanımı
+
+・ Sitenin Logosu, yazıları, içerikleri, konusu hepsi MIT Lisansı İle Korunmaktadır. [EK](https://github.com/Beryl364/LenosaTOS/blob/main/LICENSE)
+
 # Davranış Kuralları
 
 ・ Botu kesinlikle kötü niyetli kullanmak;
@@ -47,6 +51,6 @@
 
 [Botun Sitesinde Oku](https://bot.lenosa.cf/tos#veri-kullanimi.html)
 
-・ Güncellenme Tarihi: **04.06.2021 | 17:22:49**
+・ Güncellenme Tarihi: **04.06.2021 | 18:30:15**
 
 ・ Lenosa Geliştirici Topluluğu © 2020~2021
