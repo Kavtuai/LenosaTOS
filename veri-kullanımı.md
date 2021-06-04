@@ -34,6 +34,6 @@ Hayır, Verileriniz __KaraListeye__ Girdiği Andan İtibaren Botun Datasından K
 
 [Botun Sitesinde Oku](https://bot.lenosa.cf/tos#veri-kullanimi.html)
 
-Güncellenme Tarihi: **04.06.2021 | 17:28:49**
+・ Güncellenme Tarihi: **04.06.2021 | 17:22:49**
 
-Lenosa Geliştirici Topluluğu © 2020~2021
+・ Lenosa Geliştirici Topluluğu © 2020~2021
