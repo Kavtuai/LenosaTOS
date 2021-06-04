@@ -37,6 +37,9 @@
 ・ Botun logosunu, tasarımını, konusunu vs. hiçbir türlü satamazsınız, çalamazsınız veya paylaşamazsınız.
 ・ Botun Menüleri, Embed Renk Kodları;
 ・ Botun Yazı Fontu, Şekil ve Duruş Tarzı;
+・ Botun Kodları, Kod Benzerliği;
+・ Kodun Tıpatıp Bezetilme Durumu;
+・ Bota Benzer İsim, Logo, Kod Yapmak;
 
 ・ Yukarıdakiler Dahil Olmak Üzere Hepsi [MIT](https://github.com/Beryl364/LenosaTOS/blob/main/LICENSE) Lisansına Sahiptir.
 
