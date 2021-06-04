@@ -1,35 +1,35 @@
 # Lensa Bot Veri Politikası
 
-Lenosa'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
+・ Lenosa'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.  
 
 # Hangi veriler saklanır?
 
-Sunucu verileri, Üye bilgileri, Kanal Bilgileri.
+・ Sunucu verileri, Üye bilgileri, Kanal Bilgileri.  
 
 # Veriye neden ihtiyaç duyuyorsunuz ve ne için kullanıyorsunuz?
 
-Sunucu Verileri, Sunucu Komutlarının Düzgün Çalışabilmesi Açısından Kullanılır.
+・ Sunucu Verileri, Sunucu Komutlarının Düzgün Çalışabilmesi Açısından Kullanılır.  
 
-Kanal ID'leri, Kanal Kimliği Gereksiniminde Bulunan Komutları Çalıştırmasında Kullanılır.
+・ Kanal ID'leri, Kanal Kimliği Gereksiniminde Bulunan Komutları Çalıştırmasında Kullanılır.  
 
-Kullanıcı ID'leri, Bot İçin Toplanan Oy Mikarını Kullanımında Kullanılır.
+・ Kullanıcı ID'leri, Bot İçin Toplanan Oy Mikarını Kullanımında Kullanılır.  
 
 # Bu verileri başkasıyla paylaşıyor musunuz?
 
-Hayır, Bu verileri Paylaşmamaktayız. Yanlızca Kendi Depolama Alanımızda Güvenlice Saklanır.
+・ Hayır, Bu verileri Paylaşmamaktayız. Yanlızca Kendi Depolama Alanımızda Güvenlice Saklanır. 
 
 # Geliştiriciyle nasıl iletişime geçebilirim?
 
-[Destek Sunucusundan](https://discord.gg/sUuYCJzh5b) **Kavtuai** İle İletişime Geçebilirsiniz.
+・  [Destek Sunucusundan](https://discord.gg/sUuYCJzh5b) **Kavtuai** İle İletişime Geçebilirsiniz.  
 
 # Verilerinizi nasıl kaldırabilirsiniz?
 
-Verilerinizi Kaldırmak İstediğinizde: [Destek Sunucusundan](https://discord.gg/sUuYCJzh5b) **Kavtuai** İle İletişime Geçerek Kaldırtabilirsiniz.
+・ Verilerinizi Kaldırmak İstediğinizde: [Destek Sunucusundan](https://discord.gg/sUuYCJzh5b) **Kavtuai** İle İletişime Geçerek Kaldırtabilirsiniz.  
 
-**NOT:** Kara Listede Olan Kullanıcıların Verileri Direk Bot Üzerinden Kaldırılmaktadır.
+・ **NOT:** Kara Listede Olan Kullanıcıların Verileri Direk Bot Üzerinden Kaldırılmaktadır.  
 
 # Beyaz listeye geri eklenirsem verilerim geri gelebilir mi?
-Hayır, Verileriniz __KaraListeye__ Girdiği Andan İtibaren Botun Datasından Kaldırılmaktadır.
+・ Hayır, Verileriniz __KaraListeye__ Girdiği Andan İtibaren Botun Datasından Kaldırılmaktadır.  
 #
 
 [Botun Sitesinde Oku](https://bot.lenosa.cf/tos#veri-kullanimi.html)
