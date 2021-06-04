@@ -8,14 +8,14 @@
 
 # Hizmet Kullanım Hakları
 
-・ Botumuz sizlere yüzlerce eğlence, profil vs. komut kullanabilme hakkı sunmaktadır.
-・ botumuzu **kesinlikle** kötüye kullanmak vs. yasaktır.
-・ Hizmeti veya bir kısmını kopyalamak, uyarlamak, değiştirmek, buradan türetilmiş çalışmalar hazırlamak, dağıtmak, lisanslandırmak, satmak, devretmek, açıkça sergilemek, açıkça gerçekleştirmek, yaymak, internet üzerinden canlı olarak yayınlamak, yayınlamak, herhangi bir kaynak kodunu öğrenmeye çalışmak, tersine mühendislik yapmak, geri derlemek, farklı şekilde göstermek veya (iii) Hizmet üzerinde veri madenciliği, robotları, örümcekleri veya benzeri veri toplama ve çıkarma araçları kullanmak. İşbu Koşullarda açıkça verilen izinler ve haklar hariç olmak üzere, Şirket ve lisans sağlayıcılarının sahip olduğu ya da kontrol ettiği herhangi bir fikri mülkiyet hakkı uyarınca ya da dolaylı olarak hiçbir yetki ya da hak tarafınıza verilmez.
+・ Botumuz sizlere yüzlerce eğlence, profil vs. komut kullanabilme hakkı sunmaktadır.  
+・ botumuzu **kesinlikle** kötüye kullanmak vs. yasaktır.  
+・ Hizmeti veya bir kısmını kopyalamak, uyarlamak, değiştirmek, buradan türetilmiş çalışmalar hazırlamak, dağıtmak, lisanslandırmak, satmak, devretmek, açıkça sergilemek, açıkça gerçekleştirmek, yaymak, internet üzerinden canlı olarak yayınlamak, yayınlamak, herhangi bir kaynak kodunu öğrenmeye çalışmak, tersine mühendislik yapmak, geri derlemek, farklı şekilde göstermek veya (iii) Hizmet üzerinde veri madenciliği, robotları, örümcekleri veya benzeri veri toplama ve çıkarma araçları kullanmak. İşbu Koşullarda açıkça verilen izinler ve haklar hariç olmak üzere, Şirket ve lisans sağlayıcılarının sahip olduğu ya da kontrol ettiği herhangi bir fikri mülkiyet hakkı uyarınca ya da dolaylı olarak hiçbir yetki ya da hak tarafınıza verilmez.  
 
 # Şartlar Ve Koşullar
 
-・ Botumuzu her discord üyesi kullanabilir. Fakar Hesabınızın: [Discord TOS](https://discord.com/terms)'a uygun olması gerekmetedir.
-・ Başka herhangi bir kısıtlamaksızın botu kullanabilirsiniz.
+・ Botumuzu her discord üyesi kullanabilir. Fakar Hesabınızın: [Discord TOS](https://discord.com/terms)'a uygun olması gerekmetedir.  
+・ Başka herhangi bir kısıtlamaksızın botu kullanabilirsiniz.  
 
 # Site Kullanımı
 
