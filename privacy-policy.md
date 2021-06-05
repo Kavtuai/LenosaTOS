@@ -32,7 +32,7 @@
 ・ Hayır, Verileriniz __KaraListeye__ Girdiği Andan İtibaren Botun Datasından Kaldırılmaktadır.  
 #
 
-[Botun Sitesinde Oku](https://bot.lenosa.cf/tos#veri-kullanimi.html)
+[Botun Sitesinde Oku](https://bot.lenosa.cf/privacy-policy.html)
 
 ・ Güncellenme Tarihi: **04.06.2021 | 17:22:49**
 
