@@ -1,10 +1,10 @@
-# Lensa Bot Gizlilik Politikası
+# Lensa Bot Kullanım Şartları
 
 ・ Lenosa'yı kullanarak aşağıdaki gizlilik politikasını kabul etmiş olursunuz.
 
 # Veriler Ve Kişiselleştirme
 
-・ [Buradan](https://github.com/Beryl364/LenosaTOS/blob/main/veri-kullan%C4%B1m%C4%B1.md) Veri Politikasını Okuyabilirsiniz.
+・ [Buradan](https://github.com/Kavtuai/LenosaTOS/blob/main/privacy-policy.md) Veri Politikasını Okuyabilirsiniz.
 
 # Hizmet Kullanım Hakları
 
